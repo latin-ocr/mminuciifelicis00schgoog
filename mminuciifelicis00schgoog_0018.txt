@@ -1,0 +1,4 @@
+P = codex Parisinus num. 1661.
+
+r = editio princeps Romana a. 1543.
+
